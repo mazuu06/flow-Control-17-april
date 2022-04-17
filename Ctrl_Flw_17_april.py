@@ -59,6 +59,6 @@
 
 # *** for loop ***               *comment
 
-lst = ("Hello", "I", "am", "learning", "python")
-for in in range(len(lst)):
-    print(lst[i])
+# nano = ("Hello", "I", "am", "learning", "python")
+# for i in range(len(nano)):
+#     print(nano[i])
